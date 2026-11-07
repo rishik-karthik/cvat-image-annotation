@@ -1,0 +1,9 @@
+# Original DAGM dataset
+DAGM2007/
+
+# Export archives
+*.zip
+
+# Python cache files
+__pycache__/
+*.py[cod]
